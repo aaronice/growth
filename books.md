@@ -18,6 +18,7 @@
 ### Data Structure and Algorithm
 
 - [ ] [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](http://algs4.cs.princeton.edu/home/)
+- [ ] [Programming Pearls by Jon Bentley](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880) | [编程珠玑](https://book.douban.com/subject/3227098/)
 
 ### Debugging
 
@@ -63,3 +64,5 @@
 ## Reference
 - [Lucida: Developer Reading List](http://lucida.me/blog/developer-reading-list/)
 - [Phodal Huang: Awesome Developer](https://github.com/phodal/developer)
+- [Joel Spolsky, Joel on Software: Book Reviews ](http://www.joelonsoftware.com/navlinks/fog0000000262.html)
+- [Jeff Atwood, Coding Horror: Recommended Reading for Developers](http://blog.codinghorror.com/recommended-reading-for-developers/)
