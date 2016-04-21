@@ -49,7 +49,7 @@
     - [x] [软件随想录](https://book.douban.com/subject/4163938/)
 - [ ] [Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel ](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
 - [ ] [Out of Control: The New Biology of Machines, Social Systems, and the Economic World](http://www.amazon.com/Out-Control-Biology-Machines-Economic/dp/0201483408)
-    - [ ][失控](https://book.douban.com/subject/5375620/)
+    - [ ] [失控](https://book.douban.com/subject/5375620/)
 - [x] [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future by Kevin Kelly](http://www.amazon.com/The-Inevitable-Understanding-Technological-Forces/dp/0525428089)
     - [x] [必然](https://book.douban.com/subject/26658379/)
 
