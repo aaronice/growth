@@ -1,3 +1,3 @@
 # Growth
 
-A repo for growth, the rigid demand.
+A repo for growth, the inelastic demand.
