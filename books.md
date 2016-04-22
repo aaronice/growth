@@ -14,6 +14,7 @@
 
 - [ ] [Effective JavaScript by David Herman](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 - [ ] [JavaScript语言精粹](https://book.douban.com/subject/3590768/)
+- [ ] [JavaScript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
 ### Data Structure and Algorithm
 
@@ -66,3 +67,4 @@
 - [Phodal Huang: Awesome Developer](https://github.com/phodal/developer)
 - [Joel Spolsky, Joel on Software: Book Reviews ](http://www.joelonsoftware.com/navlinks/fog0000000262.html)
 - [Jeff Atwood, Coding Horror: Recommended Reading for Developers](http://blog.codinghorror.com/recommended-reading-for-developers/)
+- [StackOverflow: What is the single most influential book every programmer should read?](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
