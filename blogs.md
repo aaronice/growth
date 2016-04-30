@@ -34,6 +34,7 @@
 - http://lucida.me
 - http://coolshell.cn/
 - http://mindhacks.cn/
+- http://macshuo.com/
 
 
 # Reference
