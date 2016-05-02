@@ -3,38 +3,38 @@
 ## Tech Blogs
 
 ### Enterprise Tech Blogs
-- https://medium.com/google-developers
-- http://techblog.netflix.com/
-- https://blog.twitter.com/engineering
-- https://engineering.linkedin.com/
-- https://code.facebook.com/
-- http://google-opensource.blogspot.hk/
-- http://radar.oreilly.com/
-- http://techblog.netflix.com/
-- http://githubengineering.com/
-- https://labs.spotify.com/
-- http://www.yelp.com/engineering
-- http://instagram-engineering.tumblr.com/
-- https://engineering.pinterest.com/
-- https://blogs.dropbox.com/tech/
-- http://nerds.airbnb.com/
-- https://eng.uber.com/
-- https://aws.amazon.com/cn/blogs/aws/
+- [Google Developers](https://medium.com/google-developers)
+- [Twitter Engineering Blog](https://blog.twitter.com/engineering)
+- [LinkedIn Engineering](https://engineering.linkedin.com/)
+- [Facebook Code](https://code.facebook.com/)
+- [Google Open Source](http://google-opensource.blogspot.com/)
+- [Radar O'reilly](http://radar.oreilly.com/)
+- [Netflix Tech Blog](http://techblog.netflix.com/)
+- [Github Engineering](http://githubengineering.com/)
+- [Spotify Labs](https://labs.spotify.com/)
+- [Yelp Engineering](http://www.yelp.com/engineering)
+- [Instagram Engineering](http://instagram-engineering.tumblr.com/)
+- [Pinterest Engineering Blog](https://engineering.pinterest.com/)
+- [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
+- [Airbnb Nerds](http://nerds.airbnb.com/)
+- [Uber Engineering Blog](https://eng.uber.com/)
+- [Amazon AWS Blog](https://aws.amazon.com/cn/blogs/aws/)
+- [Taobao FED](http://taobaofed.org/)
 
 ### Software Architecture, Tech Stacks
-- http://highscalability.squarespace.com/
+- [High Scalability](http://highscalability.squarespace.com/)
 
 ### Software Development
-- http://www.joelonsoftware.com/
-- http://paulgraham.com/articles.html
+- [Joel on Software](http://www.joelonsoftware.com/)
+- [Essays of Paul Graham](http://paulgraham.com/articles.html)
 
 ### Personal Blogs
-- http://www.ruanyifeng.com/
-- https://www.phodal.com/
-- http://lucida.me
-- http://coolshell.cn/
-- http://mindhacks.cn/
-- http://macshuo.com/
+- [阮一峰](http://www.ruanyifeng.com/)
+- [Phodal](https://www.phodal.com/blog/)
+- [Lucida](http://lucida.me)
+- [酷壳 CoolShell](http://coolshell.cn/)
+- [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
+- [MacTalk-池建强的随想录](http://macshuo.com/)
 
 
 # Reference
