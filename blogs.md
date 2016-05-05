@@ -35,7 +35,7 @@
 - [酷壳 CoolShell](http://coolshell.cn/)
 - [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
 - [MacTalk-池建强的随想录](http://macshuo.com/)
-
+- [pinggod](http://pinggod.com/)
 
 # Reference
 
