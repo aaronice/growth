@@ -24,11 +24,14 @@
 ### Software Architecture, Tech Stacks
 - [High Scalability](http://highscalability.squarespace.com/)
 
-### Software Development
+### Software Engineer Personal Blogs
+
+#### English
 - [Joel on Software](http://www.joelonsoftware.com/)
 - [Essays of Paul Graham](http://paulgraham.com/articles.html)
+- [kate{mats} - my musings on tech, leadership & life](http://katemats.com/)
 
-### Personal Blogs
+#### 中文
 - [阮一峰](http://www.ruanyifeng.com/)
 - [Phodal](https://www.phodal.com/blog/)
 - [Lucida](http://lucida.me)
