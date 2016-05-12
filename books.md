@@ -23,6 +23,7 @@
 
 ### Debugging
 
+- [ ] [Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](http://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578)
 
 
 ## Software Development
@@ -49,7 +50,6 @@
 - [ ] [The Architecture of Open Source Applications, Vol.1 & 2](http://aosabook.org/en/index.html)
 - [ ] [The Performance of Open Source Applications](http://aosabook.org/en/index.html)
 - [ ] [500 Lines or Less](http://aosabook.org/en/500L/)
-- 
 
 ## Project Management
 
