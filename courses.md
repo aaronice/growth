@@ -9,3 +9,6 @@
 
 ## Testing
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+
+# Machine Learning, Artificial Intelligence
+- [Machine Learning - Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
