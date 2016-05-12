@@ -46,6 +46,10 @@
 ## Architecture
 
 - [ ] [Patterns of Enterprise Application Architecture](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- [ ] [The Architecture of Open Source Applications, Vol.1 & 2](http://aosabook.org/en/index.html)
+- [ ] [The Performance of Open Source Applications](http://aosabook.org/en/index.html)
+- [ ] [500 Lines or Less](http://aosabook.org/en/500L/)
+- 
 
 ## Project Management
 
