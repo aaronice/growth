@@ -40,6 +40,12 @@
 - [MacTalk-池建强的随想录](http://macshuo.com/)
 - [pinggod](http://pinggod.com/)
 
+#### JavaScript, Node.js, React
+- [bytearcher](http://bytearcher.com/)
+
+
+
+
 # Reference
 
 - [20-outstanding-enterprise-technology-blog](http://www.infoq.com/cn/articles/20-outstanding-enterprise-technology-blog)
