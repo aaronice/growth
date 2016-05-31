@@ -27,7 +27,8 @@
 ### Software Engineer Personal Blogs
 
 #### English
-- [Joel on Software](http://www.joelonsoftware.com/)
+- [Joel Spolsky: Joel on Software](http://www.joelonsoftware.com/)
+- [Jeff Atwood: CODING HORROR - programming and human factors](https://blog.codinghorror.com/)
 - [Essays of Paul Graham](http://paulgraham.com/articles.html)
 - [kate{mats} - my musings on tech, leadership & life](http://katemats.com/)
 
