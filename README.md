@@ -3,6 +3,7 @@
 A repo for growth, the inelastic demand.
 
 
-### Books
-- [List of Books To Read](books.md)
-- [List of Blogs To Follow](blogs.md)
+- [List of Books to Read](books.md)
+- [List of Blogs to Follow](blogs.md)
+- [List of Courses to Take](courses.md)
+- [List of Tutorials to Go Through](tutorials)
