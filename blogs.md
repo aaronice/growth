@@ -44,7 +44,7 @@
 #### JavaScript, Node.js, React
 - [bytearcher](http://bytearcher.com/)
 - [Hidden Variables - Domenic's blog about coding and stuff](https://blog.domenic.me/)
-
+- [Angus Croll](http://anguscroll.com/)
 
 
 # Reference
