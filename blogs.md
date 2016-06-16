@@ -45,6 +45,7 @@
 - [bytearcher](http://bytearcher.com/)
 - [Hidden Variables - Domenic's blog about coding and stuff](https://blog.domenic.me/)
 - [Angus Croll](http://anguscroll.com/)
+- [Jake Archibald](https://jakearchibald.com/)
 
 
 # Reference
