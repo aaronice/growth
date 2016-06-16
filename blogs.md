@@ -47,6 +47,12 @@
 - [Angus Croll](http://anguscroll.com/)
 - [Jake Archibald](https://jakearchibald.com/)
 
+## Other Blogs
+
+### Software Engineering Career
+- [Gayle Laakmann McDowell](http://www.gayle.com/career-advice/)
+- [John Sonmez: Simple Programmer](https://simpleprogrammer.com/)
+
 
 # Reference
 
