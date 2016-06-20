@@ -72,3 +72,4 @@
 - [Joel Spolsky, Joel on Software: Book Reviews ](http://www.joelonsoftware.com/navlinks/fog0000000262.html)
 - [Jeff Atwood, Coding Horror: Recommended Reading for Developers](http://blog.codinghorror.com/recommended-reading-for-developers/)
 - [StackOverflow: What is the single most influential book every programmer should read?](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+- [ThoughtWorks Reading Radar 2016](http://insights.thoughtworkers.org/reading-radar-2016/) | [2013](http://agiledon.github.io/blog/2013/04/17/thoughtworks-developer-reading-radar/)
