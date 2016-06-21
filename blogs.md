@@ -40,6 +40,7 @@
 - [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
 - [MacTalk-池建强的随想录](http://macshuo.com/)
 - [pinggod](http://pinggod.com/)
+- [小土刀wdxtub - 一个逗比的碎碎念](http://wdxtub.com/)
 
 #### JavaScript, Node.js, React
 - [bytearcher](http://bytearcher.com/)
