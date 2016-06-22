@@ -65,6 +65,7 @@
 - [ ] [Becoming A Technical Leader《成为技术领导者》](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 - [ ] [The Fifth Discipline《第五项修炼》](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0553456342)
 - [ ] [The McKinsey Way《麦肯锡方法》](https://www.amazon.com/McKinsey-Way-Ethan-Rasiel/dp/0070534489) [Online](http://www.logro.sk/na_stiahnutie/the_mckinsey_way.pdf)
+- [ ] [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) | [《思考快与慢》](https://book.douban.com/subject/10785583/)
 
 ## Misc
 
