@@ -8,6 +8,11 @@
 
 ## Programming
 
+### Data Structure and Algorithm
+
+- [ ] [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](http://algs4.cs.princeton.edu/home/)
+- [ ] [Programming Pearls by Jon Bentley](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880) | [编程珠玑](https://book.douban.com/subject/3227098/)
+
 ### Language
 
 #### Javascript
@@ -16,27 +21,14 @@
 - [ ] [JavaScript语言精粹](https://book.douban.com/subject/3590768/)
 - [ ] [JavaScript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
-### Data Structure and Algorithm
+## Coding Practice
 
-- [ ] [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](http://algs4.cs.princeton.edu/home/)
-- [ ] [Programming Pearls by Jon Bentley](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880) | [编程珠玑](https://book.douban.com/subject/3227098/)
-
-### Debugging
-
-- [ ] [Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](http://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578)
-
-
-## Software Development
+### Basic
 
 - [ ] [Code Complete by Steve McConnell](cc2e.com) | [代码大全](https://book.douban.com/subject/2248759/)
 - [ ] [The Art of Readable Code by Dustin Boswell](http://www.amazon.com/The-Readable-Code-Theory-Practice/dp/0596802293) | [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
 - [ ] [The Productive Programmer](http://www.amazon.com/Productive-Programmer-Theory-Practice-OReilly/dp/0596519788) | [卓有成效的程序员](https://book.douban.com/subject/3558788/)
 - [x] [Practices of an Agile Developer: Working in the Real World by Venkat Subramaniam](http://www.amazon.com/Practices-Agile-Developer-Pragmatic-Bookshelf/dp/097451408X) | [高效程序员的45个习惯:敏捷开发修炼之道](https://book.douban.com/subject/4164024/)
-
-### Design Patterns
-
-- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-- [ ] [Head First Design Patterns](http://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
 
 ### Refactoring
 
@@ -44,17 +36,35 @@
 - [ ] [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) | [修改代码的艺术](https://book.douban.com/subject/2248759/)
 - [ ] [Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | [代码整洁之道](https://book.douban.com/subject/4199741/)
 
-## Architecture
+### Debugging
+
+- [ ] [Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](http://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578)
+
+## Architecture & Design
+
+### Design Patterns
+
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [ ] [Head First Design Patterns](http://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
+
+### Application Architecture
 
 - [ ] [Patterns of Enterprise Application Architecture](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [ ] [The Architecture of Open Source Applications, Vol.1 & 2](http://aosabook.org/en/index.html)
 - [ ] [The Performance of Open Source Applications](http://aosabook.org/en/index.html)
 - [ ] [500 Lines or Less](http://aosabook.org/en/500L/)
 
-## Project Management
+## Methodology && Project Management
 
 - [ ] [The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) | [人月神话](https://book.douban.com/subject/1102259/)
 
+## Thought && Leadership
+
+- [ ] [The Effective Executive《卓有成效的管理者》](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459)
+- [ ] [Are Your Lights On?《你的灯亮着吗》](https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161)
+- [ ] [Becoming A Technical Leader《成为技术领导者》](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
+- [ ] [The Fifth Discipline《第五项修炼》](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0553456342)
+- [ ] [The McKinsey Way《麦肯锡方法》](https://www.amazon.com/McKinsey-Way-Ethan-Rasiel/dp/0070534489) [Online](http://www.logro.sk/na_stiahnutie/the_mckinsey_way.pdf)
 
 ## Misc
 
