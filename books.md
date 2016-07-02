@@ -17,6 +17,8 @@
 
 #### Javascript
 
+- [ ] [Speaking JavaScript: An In-Depth Guide for Programmers by Dr. Axel Rauschmayer](http://speakingjs.com/)
+- [ ] [Exploring ES6: Upgrade to the next version of JavaScript by Dr. Axel Rauschmayer](http://exploringjs.com/)
 - [ ] [Effective JavaScript by David Herman](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 - [ ] [JavaScript语言精粹](https://book.douban.com/subject/3590768/)
 - [ ] [JavaScript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
