@@ -3,6 +3,8 @@
 ## Tech Blogs
 
 ### Enterprise Tech Blogs
+
+#### English
 - [Google Developers](https://medium.com/google-developers)
 - [Twitter Engineering Blog](https://blog.twitter.com/engineering)
 - [LinkedIn Engineering](https://engineering.linkedin.com/)
@@ -19,7 +21,10 @@
 - [Airbnb Nerds](http://nerds.airbnb.com/)
 - [Uber Engineering Blog](https://eng.uber.com/)
 - [Amazon AWS Blog](https://aws.amazon.com/cn/blogs/aws/)
-- [Taobao FED](http://taobaofed.org/)
+
+#### 中文
+- [淘宝FED - Taobao FED](http://taobaofed.org/)
+- [美团点评技术团队 - Meituan Dianping Tech Blog](http://tech.meituan.com/)
 
 ### Software Architecture, Tech Stacks
 - [High Scalability](http://highscalability.squarespace.com/)
