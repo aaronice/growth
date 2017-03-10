@@ -53,6 +53,9 @@
 - [Angus Croll](http://anguscroll.com/)
 - [Jake Archibald](https://jakearchibald.com/)
 
+#### Databases
+- [Use the Index, Luke |  SQL Indexing and Tuning e-Book](http://use-the-index-luke.com/)
+
 ## Other Blogs
 
 ### Software Engineering Career
