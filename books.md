@@ -23,6 +23,18 @@
 - [ ] [JavaScript语言精粹](https://book.douban.com/subject/3590768/)
 - [ ] [JavaScript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
+#### Erlang
+
+- [x] [Learn You Some Erlang - for great good! by Fred Hebert](http://learnyousomeerlang.com/content)
+
+## Computer Science Fundamentals
+
+### Database System and Distributed System
+
+- [x] [Designing Data-Intensive Applications](http://dataintensive.net/)
+- [ ] [Readings in Database Systems, 5th Edition - Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors](http://www.redbook.io/)
+
+
 ## Coding Practice
 
 ### Basic
